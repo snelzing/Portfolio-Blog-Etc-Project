@@ -50,6 +50,10 @@ media
 # Keep it Secret Keep it Safe #
 .env
 
+# Just too much #
+venv/
+.idea
+
 # Logs
 logs
 *.log
