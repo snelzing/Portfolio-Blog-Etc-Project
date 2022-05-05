@@ -48,7 +48,7 @@ media
 *.bak 
 
 # Keep it Secret Keep it Safe #
-.env
+backend/backend/.env
 
 # Just too much #
 venv/
@@ -129,7 +129,7 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
+backend/backend/.env
 .env.development.local
 .env.test.local
 .env.production.local
